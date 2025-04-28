@@ -1,11 +1,11 @@
 ---
 name: Epic request
 about: A main theme to implement a set of features
-title: ''
+title: '[Epic][<Epic number>]: …'
 labels: ''
 assignees: ''
 type: 'epic'
-project: 'Lattify/1'
+projects: ['Lattify/1']
 
 ---
 
