@@ -5,7 +5,7 @@ title: ''
 labels: ''
 assignees: ''
 type: 'feature'
-projects: ['Lattify/1']
+projects: ['lattify/1']
 
 ---
 

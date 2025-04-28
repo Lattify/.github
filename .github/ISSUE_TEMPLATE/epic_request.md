@@ -5,7 +5,7 @@ title: '[Epic][<Epic number>]: …'
 labels: ''
 assignees: ''
 type: 'epic'
-projects: ['Lattify/1']
+projects: ['lattify/1']
 
 ---
 
