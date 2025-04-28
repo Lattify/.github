@@ -5,7 +5,7 @@ title: ''
 labels: ''
 assignees: ''
 type: 'epic'
-project: '1'
+project: 'Lattify/1'
 
 ---
 
