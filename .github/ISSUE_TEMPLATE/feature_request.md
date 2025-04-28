@@ -5,7 +5,7 @@ title: ''
 labels: ''
 assignees: ''
 type: 'feature'
-project: 'Lattify MVP'
+project: '1'
 
 ---
 

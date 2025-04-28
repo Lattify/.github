@@ -5,7 +5,7 @@ title: ''
 labels: ''
 assignees: ''
 type: 'epic'
-project: 'Lattify MVP'
+project: '1'
 
 ---
 
