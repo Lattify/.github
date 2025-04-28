@@ -4,6 +4,8 @@ about: Bite-sized work-item to implement a feature
 title: ''
 labels: ''
 assignees: ''
+type: 'feature'
+project: 'Lattify MVP'
 
 ---
 

@@ -4,6 +4,8 @@ about: A main theme to implement a set of features
 title: ''
 labels: ''
 assignees: ''
+type: 'epic'
+project: 'Lattify MVP'
 
 ---
 
